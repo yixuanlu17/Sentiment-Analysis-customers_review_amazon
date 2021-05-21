@@ -1,4 +1,4 @@
-# ✨Sentiment-Analysis-customers_review_amazon✨
+# ✨Competitive Analysis-customers_review_amazon✨
 This work is a capstone project, so the dataset related to this project cannot be released as I do not own the copyright. However, you can easily modify everything in this repository based on my code and then work with other datasets you want.
 
 ## Sentiment Analysis on text data:
@@ -6,6 +6,10 @@ This work is a capstone project, so the dataset related to this project cannot b
 
 ## Dataset Information 
 Although the datasaet can not be released,  the data used, provided by the sponsor, is mainly product sales information, reviews on Amazon, and product packaging information
+
+## Requirements 
+
+### Libraries are required as follows
 
 <!---
 yixuanlu17/yixuanlu17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
