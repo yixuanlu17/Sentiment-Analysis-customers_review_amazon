@@ -5,7 +5,7 @@ This work is a capstone project, so the dataset related to this project cannot b
 ![Sentiment_Analysis](https://user-images.githubusercontent.com/57702598/90991088-264c8880-e56c-11ea-9895-90029d3c2139.gif)
 
 ## Dataset Information 
-Although the datasaet can not be released,  the data used, provided by the sponsor, is mainly product sales information, reviews on Amazon, and product packaging information. The methodologies of this project include Ratio Analysis, Sentiment Analysis, Topic Modeling and Predictive Models. Different methods were used and compared for sentiment analysis on reviews. We hardcoded the Afinn-111 json to give scores on review. The dataset is expected to be a csv file of Review id, Review Summary, Review Text, Scores, Review Text Words where the Review_id is a unique integer identifying the review.
+Although the datasaet can not be released,  as I signed an agreement not to show the data provided by the Sponsor, is mainly product sales information, reviews on Amazon, and product packaging information. The methodologies of this project include Ratio Analysis, Sentiment Analysis, Topic Modeling and Predictive Models. Different methods were used and compared for sentiment analysis on reviews. We hardcoded the Afinn-111 json to give scores on review. The dataset is expected to be a csv file of Review id, Review Summary, Review Text, Scores, Review Text Words where the Review_id is a unique integer identifying the review.
 
 
 
