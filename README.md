@@ -34,7 +34,16 @@ import re
 from collections import Counter
 ```
 
-## Skill used
+## Skillset
+* Tokenization
+* Lexicon Normalization
+* Stemming
+* Lemmatization 
+* Text Vectorization 
+*	Sentiment Analysis
+*	Ratio Analysis
+*	Topic Modeling
+*	Logistic Regression Model
 
 
 ## Results
