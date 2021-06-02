@@ -35,15 +35,6 @@ from collections import Counter
 ```
 
 ## Skill used
-* Tokenization
-* Lexicon Normalization
-* Stemming
-* Lemmatization 
-* Text Vectorization 
-*	Sentiment Analysis
-*	Ratio Analysis
-*	Topic Modeling
-*	Logistic Regression Model
 
 
 ## Results
