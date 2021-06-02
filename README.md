@@ -33,6 +33,19 @@ import math
 import re
 from collections import Counter
 ```
+
+## Skill used
+* Tokenization
+* Lexicon Normalization
+* Stemming
+* Lemmatization 
+* Text Vectorization 
+*	Sentiment Analysis
+*	Ratio Analysis
+*	Topic Modeling
+*	Logistic Regression Model
+
+
 ## Results
 ### The most attractive word on the product
 ![image](https://user-images.githubusercontent.com/83843271/119201629-eb24aa80-ba54-11eb-8ff6-a2cebfaf2603.png)
